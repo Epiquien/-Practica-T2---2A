@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/modules.xml
+/.idea.Practica T2-B.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\CURSOS LLEVANDO\VIDEOJUEGOS Y APLICACIONES MOVILES\practica T2 2\Practica T2-B\.idea\.idea.Practica T2-B\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
